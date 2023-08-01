@@ -87,3 +87,25 @@ body {
     font-size: 1rem;
     font-weight: 450px;
 }
+
+@media (max-width: 1070px) {
+    
+    .cabecalho {
+        padding: 10%;
+    }
+
+    .cabecalho__menu {
+        justify-content: center;
+    }
+    
+    .apresentacao {
+        flex-direction: column-reverse;
+        padding: 5%;
+
+    }
+
+    .apresentacao__conteudo {
+        justify-content: center;
+        width: 100%;
+    }
+}
