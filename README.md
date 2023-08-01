@@ -32,10 +32,12 @@ de Informática.
 
 ## Acesso ao Projeto 🖱️
 
+Você poderá acessar os arquivos do projeto clicando [aqui](https://github.com/Cassisilverston/Portfolio/tree/main).
+
 ## Pessoas Contribuidoras
+
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/30351153?v=4" width=115><br><sub>Guilherme</sub>](https://github.com/guilhermeonrails) | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/54322854?v=4" width=115><br><sub>Raffaela</sub>](https://github.com/rafaballerini)
 | :---: | :---: |
-
 
 ## Técnicas e tecnologias utilizadas 😱
 
