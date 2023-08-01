@@ -30,6 +30,8 @@ de Informática.
 
 ## Funcionalidades e Demonstração 🖥️ 
 
+https://github.com/Cassisilverston/Portfolio/assets/140524119/e212e481-1ae4-45fe-b1d3-fcf31f4b5b81
+
 ## Acesso ao Projeto 🖱️
 
 Você poderá acessar os arquivos do projeto clicando [aqui](https://github.com/Cassisilverston/Portfolio/tree/main).
