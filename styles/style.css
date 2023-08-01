@@ -131,5 +131,12 @@ body {
     
     .apresentacao {
         flex-direction: column-reverse;
+        padding: 5%;
+
+    }
+
+    .apresentacao__conteudo {
+        justify-content: center;
+        width: 100%;
     }
 }
